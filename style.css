@@ -151,3 +151,9 @@ input:checked + .slider > .moon > .moon-glow{
   border: 1px solid white;
 }
 /* ------------------------------------------------------- */
+@media (max-width: 600px) {
+  .center {
+      margin-left: 350px;
+      transform: scale(0.5);
+  }
+}
