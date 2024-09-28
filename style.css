@@ -189,6 +189,9 @@ h1{
     background-color: rgb(200, 200, 200);
     
   }
+.darkmode .switch {
+    border: 1px solid white;
+  }
   
   
   
